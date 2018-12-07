@@ -1,0 +1,1 @@
+teqc +nav c:\myrinex.14n c:\4734_0920_085736.m00 > c:\myrinex.14o
